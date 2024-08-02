@@ -1,0 +1,12 @@
+{
+  "name": "refactor",
+  "version": "1.0.0",
+  "description": "1. Improves the readability of the code.\r 2. Eliminates any unnecessary duplication.\r 3. Better organise class responsibilities.\r 4. Consider using more modern or efficient methods for array operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

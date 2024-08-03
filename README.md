@@ -53,3 +53,21 @@
         ]
     }
    ```
+
+   ### Transpile TypeScript file
+
+   ```
+   npx tsc src/filename.ts
+   ```
+
+5. We can run TypeScript files without transpilation ( OPTIONAL )
+
+   ```
+   npm install ts-node --save-dev
+   ```
+
+   ### Run TypeScript file
+
+   ```
+   npx tsc-node src/filename.ts
+   ```
